@@ -12,28 +12,28 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
   <table>
     <tr>
       <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/dark1.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/dark1.png" width="800" />
       </td>
       <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/dark.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/dark.png" width="800" />
       </td>
        <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/retro1.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/retro1.png" width="800" />
       </td> <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/retro.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/retro.png" width="800" />
       </td>
     </tr>
      <tr>
       <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/night.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/night.png" width="800" />
       </td>
       <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/night1.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/night1.png" width="800" />
       </td>
        <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/original.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/original.png" width="800" />
       </td> <td style="text-align: center">
-        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/nightBlue.png" width="800" />
+        <img src="https://raw.githubusercontent.com/Captured-Heart/map_themes/refs/heads/main/example/screenshots/nightBlue.png" width="800" />
       </td>
     </tr>
   </table>
