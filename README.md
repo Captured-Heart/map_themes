@@ -6,6 +6,39 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%89%A53.3.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## UI Shots
+
+<div style="text-align: center">
+  <table>
+    <tr>
+      <td style="text-align: center">
+        <img src="example/screenshots/dark1.png" width="800" />
+      </td>
+      <td style="text-align: center">
+        <img src="example/screenshots/dark.png" width="800" />
+      </td>
+       <td style="text-align: center">
+        <img src="example/screenshots/retro1.png" width="800" />
+      </td> <td style="text-align: center">
+        <img src="example/screenshots/retro.png" width="800" />
+      </td>
+    </tr>
+     <tr>
+      <td style="text-align: center">
+        <img src="example/screenshots/night.png" width="800" />
+      </td>
+      <td style="text-align: center">
+        <img src="example/screenshots/night1.png" width="800" />
+      </td>
+       <td style="text-align: center">
+        <img src="example/screenshots/original.png" width="800" />
+      </td> <td style="text-align: center">
+        <img src="example/screenshots/nightBlue.png" width="800" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Features
 
 **5+ Built-in Themes**: Standard, Dark, Night, Night Blue, and Retro themes  
@@ -14,10 +47,11 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
 **Three Usage Patterns**: Choose from MapThemeWidget, ThemeSelectorWidget, or MapThemeManager  
 **Customizable UI**: Dropdown or horizontal list layouts with custom styling  
 **Highly Testable**: Clean architecture with comprehensive test coverage  
-**Flexible**: Works with any map widget that accepts style JSON [Currently supporting **Google maps** at the moment]  
+**Flexible**: Works with any map widget that accepts style JSON [Currently supporting **Google maps** at the moment]
 
 ## Demo Video
-https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523 
+
+https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523
 
 <!--
 Add your demo video here:
@@ -418,7 +452,6 @@ MapThemeWidget(
 | `padding`                 | `EdgeInsets` | `EdgeInsets.all(8.0)` | Internal padding for items            |
 | `margin`                  | `EdgeInsets` | `EdgeInsets.all(2.0)` | External margin for items             |
 | `elevation`               | `double`     | `1.0`                 | Shadow elevation for items            |
-
 
 ## Contributing
 
