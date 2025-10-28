@@ -51,7 +51,7 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523
+![map_themes](https://github.com/user-attachments/assets/acbea959-d40e-4aa9-9b39-c5db7ed82581)
 
 
 ## Installation
