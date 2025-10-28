@@ -5,3 +5,6 @@
 
 ## 0.0.2
 - Updated the README.md with graphics
+
+## 0.0.2+1
+- Updated the README.md with graphics

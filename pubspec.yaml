@@ -1,6 +1,6 @@
 name: map_themes
 description: "A flutter plugin providing customizable Map themes."
-version: 0.0.2
+version: 0.0.2+1
 homepage: https://github.com/Captured-Heart/map_themes
 issue_tracker: https://github.com/Captured-Heart/map_themes/issues
 # documentation: add my medium link later
