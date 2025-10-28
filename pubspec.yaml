@@ -1,8 +1,36 @@
 name: map_themes
-description: "A new Flutter plugin project."
+description: "A flutter plugin providing customizable Map themes."
 version: 0.0.1
-homepage: null
-repository: null
+homepage: https://github.com/Captured-Heart/map_themes
+issue_tracker: https://github.com/Captured-Heart/map_themes/issues
+# documentation: add my medium link later
+screenshots:
+  - description: "Example of [Dark] map theme applied on Google Maps."
+    path: example/screenshots/dark.png
+  - description: "Example of [Dark] map theme [with Selector] on Google Maps."
+    path: example/screenshots/dark1.png
+  - description: "Example of [Night] map theme applied on Google Maps."
+    path: example/screenshots/night.png
+  - description: "Example of [Night] map theme [with Selector] on Google Maps."
+    path: example/screenshots/night1.png
+  - description: "Example of [Retro] map theme applied on Google Maps."
+    path: example/screenshots/retro.png
+  - description: "Example of [Retro] map theme [with Selector] on Google Maps."
+    path: example/screenshots/retro1.png
+  - description: "Example of [Night Blue] map theme applied on Google Maps."
+    path: example/screenshots/nightBlue.png
+  - description: "Example of [Original] map theme applied on Google Maps."
+    path: example/screenshots/original.png
+
+topics:
+  - map
+  - themes
+  - flutter
+  - google-maps-flutter
+
+false_secrets:
+  - /example/ios/Runner/AppDelegate.swift
+  - "YOUR_GOOGLE_MAPS_API_KEY_HERE"
 
 environment:
   sdk: ^3.7.0
@@ -28,56 +56,9 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter packages.
 flutter:
-  # This section identifies this Flutter project as a plugin project.
-  # The 'pluginClass' specifies the class (in Java, Kotlin, Swift, Objective-C, etc.)
-  # which should be registered in the plugin registry. This is required for
-  # using method channels.
-  # The Android 'package' specifies package in which the registered class is.
-  # This is required for using method channels on Android.
-  # The 'ffiPlugin' specifies that native code should be built and bundled.
-  # This is required for using `dart:ffi`.
-  # All these are used by the tooling to maintain consistency when
-  # adding or updating assets for this project.
-  plugin:
-    platforms:
-      # This plugin project was generated without specifying any
-      # platforms with the `--platform` argument. If you see the `some_platform` map below, remove it and
-      # then add platforms following the instruction here:
-      # https://flutter.dev/to/pubspec-plugin-platforms
-      # -------------------
-      some_platform:
-        pluginClass: somePluginClass
-    # -------------------
-  # To add assets to your plugin package, add an assets section, like this:
   assets:
     - lib/assets/
     - lib/assets/dark.json
     - lib/assets/night.json
     - lib/assets/night_blue.json
     - lib/assets/retro.json
-
-  #
-  # For details regarding assets in packages, see
-  # https://flutter.dev/to/asset-from-package
-  #
-  # An image asset can refer to one or more resolution-specific "variants", see
-  # https://flutter.dev/to/resolution-aware-images
-  # To add custom fonts to your plugin package, add a fonts section here,
-  # in this "flutter" section. Each entry in this list should have a
-  # "family" key with the font family name, and a "fonts" key with a
-  # list giving the asset and other descriptors for the font. For
-  # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
-  # For details regarding fonts in packages, see
-  # https://flutter.dev/to/font-from-package

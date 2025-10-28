@@ -1,6 +1,6 @@
 # Map Themes Plugin
 
-A powerful Flutter plugin that provides easy-to-use map theming capabilities for Google Maps and other map implementations. Transform your maps with beautiful predefined themes or create custom styling with minimal code.
+A Flutter plugin that provides easy-to-use map theming capabilities for Google Maps and other map implementations. Transform your maps with beautiful predefined themes or create custom styling with minimal code.
 
 ![Pub Version](https://img.shields.io/pub/v/map_themes.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-%E2%89%A53.3.0-blue.svg)
@@ -17,8 +17,7 @@ A powerful Flutter plugin that provides easy-to-use map theming capabilities for
 **Flexible**: Works with any map widget that accepts style JSON [Currently supporting **Google maps** at the moment]  
 
 ## Demo Video
-
-> **Note**: Demo video coming soon! Check back for visual examples of all available themes and widgets in action.
+https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523 
 
 <!--
 Add your demo video here:
@@ -460,9 +459,11 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - **Documentation**: Update documentation for API changes
 - **Commit Messages**: Use conventional commits (feat:, fix:, docs:, etc.)
 
+Also, look at our [Contributing guidelines](CONTRIBUTING.md)
+
 ### Reporting Issues
 
-Please use our [issue template](.github/ISSUE_TEMPLATE.md) and include:
+When reposting an issue, provide us with additional information such as:
 
 - Flutter version and platform
 - Minimal reproduction code
@@ -477,9 +478,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## More Information
 
-- **Package**: [pub.dev/packages/map_themes](https://pub.dev/packages/map_themes)
-- **Documentation**: [API Documentation](https://pub.dev/documentation/map_themes/latest/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/map_themes/issues)
+- **Documentation**: [Usage Article]()
+- **Issues**: [GitHub Issues](https://github.com/Captured-Heart/map_themes/issues)
 - **Examples**: Check out the `/example` folder for comprehensive usage examples
 
 ### Related Packages
@@ -487,4 +487,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) - Google Maps widget for Flutter
 - [shared_preferences](https://pub.dev/packages/shared_preferences) - Platform-agnostic persistent storage
 
-Made with ❤️ by the Flutter community
+<sub>Built with 💜 by <a href="https://twitter.com/_Captured_Heart">Nkpozi Marcel Kelechi (X: @Captured-Heart)</a></sub>
