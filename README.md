@@ -53,10 +53,6 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
 
 https://github.com/user-attachments/assets/0ef9e063-4ae7-470b-b2a9-b695be3b3523
 
-<!--
-Add your demo video here:
-[![Map Themes Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
 
 ## Installation
 
@@ -462,7 +458,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 1. **Fork and Clone**
 
    ```bash
-   git clone https://github.com/yourusername/map_themes.git
+   git clone https://github.com/Captured-Heart/map_themes.git
    cd map_themes
    ```
 
