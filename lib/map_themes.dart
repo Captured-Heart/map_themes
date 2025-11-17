@@ -60,7 +60,7 @@
 /// - `MapTheme.nightBlue` - Deeper night theme with blue accents
 /// - `MapTheme.retro` - Vintage/retro styling
 ///
-library map_themes;
+// library map_themes;
 
 // Widgets
 export 'src/widgets/map_theme_widget.dart';
