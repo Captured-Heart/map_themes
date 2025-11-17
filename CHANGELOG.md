@@ -14,3 +14,6 @@
 
 ## 0.0.3+3
 - added to the README about creating custom map styles using both Google's Map Styling Wizard and SnazzyMaps.
+
+## 0.0.4+4
+- added Support section to README
