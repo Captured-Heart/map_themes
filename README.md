@@ -49,10 +49,33 @@ A Flutter plugin that provides easy-to-use map theming capabilities for Google M
 **Highly Testable**: Clean architecture with comprehensive test coverage  
 **Flexible**: Works with any map widget that accepts style JSON [Currently supporting **Google maps** at the moment]
 
+## Creating Custom Map Styles
+
+### Google Maps Platform Styling Wizard
+
+You can create custom map styles using Google's official [Map Styling Wizard](https://mapstyle.withgoogle.com/):
+
+1. **Visit the Styling Wizard**: Navigate to [https://mapstyle.withgoogle.com/](https://mapstyle.withgoogle.com/)
+2. **Choose a Theme**: Start with a base theme (Standard, Silver, Retro, Dark, Night, or Aubergine)
+3. **Customize Elements**: Modify colors for roads, water, landmarks, labels, and other map features
+4. **Preview Changes**: See real-time updates as you adjust the styling
+5. **Export JSON**: Click "Finish" and copy the generated JSON style array
+6. **Use in Your App**: Save the JSON to your assets folder and load it using `MapThemeManager` or create a custom `MapTheme` enum value
+
+### SnazzyMaps - Community Map Styles
+
+Explore thousands of free, pre-made map styles at [SnazzyMaps](https://snazzymaps.com/explore):
+
+1. **Browse Styles**: Visit [https://snazzymaps.com/explore](https://snazzymaps.com/explore) to discover community-created themes
+2. **Preview on Real Maps**: See how each style looks on actual map data
+3. **Filter by Style**: Search by color schemes, tags, or popular themes
+4. **Copy JSON**: Click on any style you like and copy the JavaScript Style Array
+5. **Integrate**: Save the JSON to your project and reference it in your map implementation
+
+
 ## Demo Video
 
 ![map_themes](https://github.com/user-attachments/assets/acbea959-d40e-4aa9-9b39-c5db7ed82581)
-
 
 ## Installation
 
